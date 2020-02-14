@@ -1,0 +1,4 @@
+﻿Ticul,Motul,80,Estafeta,Tren,23-01-2020 12:00:00
+China,Cancún,446400,DHL,Avión,23-01-2020 08:00:00
+Mérida,Cozumel,400,DHL,Avión,23-01-2020 13:50:00
+Mérida,Cozumel,400,DHL3,Avión,23-01-2020 13:50:00
